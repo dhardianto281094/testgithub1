@@ -1,4 +1,7 @@
 import pandas as pd
 
 # keterangan mengenai penjelasan import data
-coba kita lakukan bersama
+coba kita lakukan Bersama
+
+code perubahan baru
+
